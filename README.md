@@ -8,4 +8,4 @@
 > es6 
 > stylus
 
-![qrcode](https://github.com/AarronChu/Weather/blob/master/qrcode.png)
+![qrcode](https://github.com/AarronChu/elemedemo/blob/master/qrcode.png)
