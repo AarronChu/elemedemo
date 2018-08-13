@@ -7,3 +7,5 @@
 > webpack 
 > es6 
 > stylus
+
+![qrcode](https://github.com/AarronChu/Weather/blob/master/qrcode.png)
